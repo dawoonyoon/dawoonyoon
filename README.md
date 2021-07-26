@@ -14,7 +14,8 @@ Techs that I've used at least once
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>  
 
-![Dawoon Yoon - Python](https://user-images.githubusercontent.com/76020610/126043384-492c5a57-5100-41ff-a7cb-042d4d4318d1.png)
+![Dawoon Yoon - Python](https://user-images.githubusercontent.com/76020610/126043384-492c5a57-5100-41ff-a7cb-042d4d4318d1.png)  
+![Dawoon Yoon - Data Cleaning](https://user-images.githubusercontent.com/76020610/127013503-91a552bc-daec-4c5d-a927-065f09553b3a.png)
 
 
 #
