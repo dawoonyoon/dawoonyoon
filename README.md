@@ -16,7 +16,7 @@ Techs that I've used at least once
 
 ![Dawoon Yoon - Python](https://user-images.githubusercontent.com/76020610/126043384-492c5a57-5100-41ff-a7cb-042d4d4318d1.png)  
 ![Dawoon Yoon - Data Cleaning](https://user-images.githubusercontent.com/76020610/127013503-91a552bc-daec-4c5d-a927-065f09553b3a.png)
-
+![Dawoon Yoon - Data Visualization](https://user-images.githubusercontent.com/76020610/127744258-1121edf6-c291-4aa1-9853-7a031c128bc7.png)
 
 #
 
