@@ -18,6 +18,7 @@ Techs that I've used at least once
 ![Dawoon Yoon - Data Cleaning](https://user-images.githubusercontent.com/76020610/127013503-91a552bc-daec-4c5d-a927-065f09553b3a.png)
 ![Dawoon Yoon - Data Visualization](https://user-images.githubusercontent.com/76020610/127744258-1121edf6-c291-4aa1-9853-7a031c128bc7.png)
 ![Dawoon Yoon - Intro to Machine Learning](https://user-images.githubusercontent.com/76020610/127884756-60a8ca33-a0fa-4301-9af1-47cc43fa9cce.png)
+![Dawoon Yoon - Intermediate Machine Learning](https://user-images.githubusercontent.com/76020610/128893456-2429d9e2-9cbd-4741-9d34-3a15a5c93f63.png)
 
 
 #
