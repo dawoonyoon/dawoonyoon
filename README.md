@@ -20,6 +20,7 @@ Techs that I've used at least once
 ![Dawoon Yoon - Intro to Machine Learning](https://user-images.githubusercontent.com/76020610/127884756-60a8ca33-a0fa-4301-9af1-47cc43fa9cce.png)
 ![Dawoon Yoon - Intermediate Machine Learning](https://user-images.githubusercontent.com/76020610/128893456-2429d9e2-9cbd-4741-9d34-3a15a5c93f63.png)
 ![Dawoon Yoon - Machine Learning Explainability](https://user-images.githubusercontent.com/76020610/129378342-f83378c8-a9b8-465c-9eca-d82915561435.png)
+![Dawoon Yoon - Feature Engineering](https://user-images.githubusercontent.com/76020610/129926410-b73bd37f-bff9-465d-974a-baa028a245f1.png)
 
 #
 
