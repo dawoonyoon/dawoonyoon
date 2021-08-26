@@ -22,6 +22,7 @@ Techs that I've used at least once
 ![Dawoon Yoon - Machine Learning Explainability](https://user-images.githubusercontent.com/76020610/129378342-f83378c8-a9b8-465c-9eca-d82915561435.png)
 ![Dawoon Yoon - Feature Engineering](https://user-images.githubusercontent.com/76020610/129926410-b73bd37f-bff9-465d-974a-baa028a245f1.png)
 ![Dawoon Yoon - Geospatial Analysis](https://user-images.githubusercontent.com/76020610/130488197-8f38dad6-42d2-42f7-af2c-d577b2804dda.png)
+![Dawoon Yoon - Natural Language Processing](https://user-images.githubusercontent.com/76020610/130990438-42f01217-cd8b-46c0-b460-6ff0c67cf98b.png)
 
 #
 
